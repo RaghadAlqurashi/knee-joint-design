@@ -10,3 +10,4 @@
 tan=64/64.77=0.9*10=9 angle=9
 
 ```
+Designed by Cinema 4D
